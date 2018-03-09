@@ -1,0 +1,50 @@
+
+##################################Anotation and performance#########################################
+
+NERanotation.py: script for anotating character classes bassed on spaCy NER (it takes/creates a dictionary to store the characters)
+NERperformance123.py: script that evaluates the performance of spaCy NER
+
+RNN folder:
+
+###################################Embedingscreation################################################
+
+create_embeddings.py: create embeddings depending on context and for 3 classes
+create_embeddings4classes.py: same as above, but for 4 classes
+create_embeddingsperclass.py: same as above but per class embeddings
+
+###################################Models training###################################################
+
+##We train the models varying the context, from 1 to 10, and size of input layer 1-4-8-16-32...1024##
+
+trainnn.py: NN training
+trainnnweights.py: NN training with weights 
+
+trainlstm.py: LSTM training
+trainlstmweights.py: LSTM training with weights
+
+trainnn4classes.py: NN 4 classes 
+trainlstm4classes.py: LSTM 4 classes
+
+trainnnweights4classes.py: NN 4 classes weights
+trainlstmweights4classes.py: LSTM 4 classes weights
+
+trainnnperclass.py: NN training per class
+trainlstmperclass.py: LSTM training per class
+#######################################################################################################
+
+###################################Testing#############################################################
+
+##classes testing##
+testnn.py: script that test performance on 123classes, computing the confusion matrix
+testlstm.py: same as above but for lstm
+
+##final performance testing##
+testperformance.py: script that performs the final test of the output system (naming speakers per line), for 3 classes and NN and LSTM
+testperformanceweights.py: same as above but regarding weights for every class
+testperformance4classes.py: same as above but for 4 classes
+testperformance4classesweights.py: 4 classes with weights per class
+testperformanceperclass.py: test performance for 3 different NN and LSTM for every class
+########################################################################################################
+
+plotresults.py: plot the results
+

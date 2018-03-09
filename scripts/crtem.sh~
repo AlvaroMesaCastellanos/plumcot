@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /people/mesa/Desktop/scripts/create_embeddings.py $SGE_TASK_ID tests
