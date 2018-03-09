@@ -1,11 +1,13 @@
 
-##################################Anotation and performance#########################################
+#########################Anotation and performance#########################################
 
 NERanotation.py: script for anotating character classes bassed on spaCy NER (it takes/creates a dictionary to store the characters)
 NERperformance123.py: script that evaluates the performance of spaCy NER
 
 RNN folder:
 
+####Clusters assignments###
+assignclusters.py: script that takes season1 characters and assign a cluster to them
 ###################################Embedingscreation################################################
 
 create_embeddings.py: create embeddings depending on context and for 3 classes
@@ -47,4 +49,5 @@ testperformanceperclass.py: test performance for 3 different NN and LSTM for eve
 ########################################################################################################
 
 plotresults.py: plot the results
-
+results.py: takes the max local and global accuracy for the experiment
+oracle.py: takes the max accuracy we could reach with a perfect system
