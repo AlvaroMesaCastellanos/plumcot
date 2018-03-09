@@ -1,0 +1,64 @@
+1 Context, best neurons 4
+ 
+[[  1  19  27]
+ [  5 357  66]
+ [  1  59 473]]
+ 
+Precision1 = 14.2857142857%
+Precision2 = 82.0689655172%
+Precision3 = 83.5689045936%
+
+Rappel1 = 2.12765957447%
+Rappel2 = 83.4112149533%
+Rappel3 = 88.7429643527%
+
+
+
+2 Context, best neurons 256
+ 
+[[  8  14  25]
+ [  3 357  68]
+ [  8  56 469]]
+ 
+Precision1 = 42.1052631579%
+Precision2 = 83.606557377%
+Precision3 = 83.4519572954%
+
+Rappel1 = 17.0212765957%
+Rappel2 = 83.4112149533%
+Rappel3 = 87.9924953096%
+
+
+
+3 Context, best neurons 128
+ 
+[[  7  16  24]
+ [  3 346  79]
+ [  9  60 464]]
+ 
+Precision1 = 36.8421052632%
+Precision2 = 81.990521327%
+Precision3 = 81.8342151675%
+
+Rappel1 = 14.8936170213%
+Rappel2 = 80.8411214953%
+Rappel3 = 87.0544090056%
+
+
+
+4 Context, best neurons 1024
+ 
+[[ 10  16  21]
+ [  3 365  60]
+ [  6  91 436]]
+ 
+Precision1 = 52.6315789474%
+Precision2 = 77.3305084746%
+Precision3 = 84.332688588%
+
+Rappel1 = 21.2765957447%
+Rappel2 = 85.2803738318%
+Rappel3 = 81.8011257036%
+
+
+

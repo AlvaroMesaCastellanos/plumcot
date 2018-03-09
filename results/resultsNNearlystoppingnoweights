@@ -1,0 +1,540 @@
+Number of neurons flayerneurons.4 Context: 8.embeding
+Rappel: 0.07209805335255948
+Precision: 0.31333333333333335
+# good anotations 94
+# total lines 4161
+Accuracy 0.02259072338380197
+Number of neurons flayerneurons.512 Context: 8.embeding
+Rappel: 0.08459504926700312
+Precision: 0.29829545454545453
+# good anotations 105
+# total lines 4161
+Accuracy 0.025234318673395817
+Number of neurons flayerneurons.8 Context: 8.embeding
+Rappel: 0.08651766402307137
+Precision: 0.3333333333333333
+# good anotations 120
+# total lines 4161
+Accuracy 0.02883922134102379
+Number of neurons flayerneurons.64 Context: 8.embeding
+Rappel: 0.11079067531843306
+Precision: 0.29067245119305857
+# good anotations 134
+# total lines 4161
+Accuracy 0.03220379716414323
+Number of neurons flayerneurons.256 Context: 8.embeding
+Rappel: 0.08964191300168228
+Precision: 0.30563002680965146
+# good anotations 114
+# total lines 4161
+Accuracy 0.0273972602739726
+Number of neurons flayerneurons.32 Context: 8.embeding
+Rappel: 0.07594328286469598
+Precision: 0.2689873417721519
+# good anotations 85
+# total lines 4161
+Accuracy 0.020427781783225185
+Number of neurons flayerneurons.2 Context: 8.embeding
+Rappel: 0.1788031723143475
+Precision: 0.3185483870967742
+# good anotations 237
+# total lines 4161
+Accuracy 0.05695746214852199
+Number of neurons flayerneurons.128 Context: 8.embeding
+Rappel: 0.07474164864215332
+Precision: 0.24437299035369775
+# good anotations 76
+# total lines 4161
+Accuracy 0.0182648401826484
+Number of neurons flayerneurons.1024 Context: 8.embeding
+Rappel: 0.10334054313866858
+Precision: 0.2651162790697674
+# good anotations 114
+# total lines 4161
+Accuracy 0.0273972602739726
+Number of neurons flayerneurons.16 Context: 8.embeding
+Rappel: 0.07450132179764479
+Precision: 0.24516129032258063
+# good anotations 76
+# total lines 4161
+Accuracy 0.0182648401826484
+Number of neurons flayerneurons.4 Context: 3.embeding
+Rappel: 0.1566931026195626
+Precision: 0.3588957055214724
+# good anotations 234
+# total lines 4161
+Accuracy 0.05623648161499639
+Number of neurons flayerneurons.512 Context: 3.embeding
+Rappel: 0.07858687815428983
+Precision: 0.28134556574923547
+# good anotations 92
+# total lines 4161
+Accuracy 0.022110069694784906
+Number of neurons flayerneurons.8 Context: 3.embeding
+Rappel: 0.10454217736121124
+Precision: 0.271264367816092
+# good anotations 118
+# total lines 4161
+Accuracy 0.028358567652006728
+Number of neurons flayerneurons.64 Context: 3.embeding
+Rappel: 0.148281663061764
+Precision: 0.3273905996758509
+# good anotations 202
+# total lines 4161
+Accuracy 0.04854602259072338
+Number of neurons flayerneurons.256 Context: 3.embeding
+Rappel: 0.09685171833693823
+Precision: 0.28287841191067
+# good anotations 114
+# total lines 4161
+Accuracy 0.0273972602739726
+Number of neurons flayerneurons.32 Context: 3.embeding
+Rappel: 0.14587839461667867
+Precision: 0.2800658978583196
+# good anotations 170
+# total lines 4161
+Accuracy 0.04085556356645037
+Number of neurons flayerneurons.2 Context: 3.embeding
+Rappel: 0.13145878394616678
+Precision: 0.283363802559415
+# good anotations 155
+# total lines 4161
+Accuracy 0.037250660898822396
+Number of neurons flayerneurons.128 Context: 3.embeding
+Rappel: 0.12809420812304734
+Precision: 0.34709193245778613
+# good anotations 185
+# total lines 4161
+Accuracy 0.044460466234078344
+Number of neurons flayerneurons.1024 Context: 3.embeding
+Rappel: 0.08387406873347752
+Precision: 0.335243553008596
+# good anotations 117
+# total lines 4161
+Accuracy 0.028118240807498196
+Number of neurons flayerneurons.16 Context: 3.embeding
+Rappel: 0.13650564768084594
+Precision: 0.34330985915492956
+# good anotations 195
+# total lines 4161
+Accuracy 0.04686373467916366
+Number of neurons flayerneurons.4 Context: 5.embeding
+Rappel: 0.16101898582071617
+Precision: 0.3358208955223881
+# good anotations 225
+# total lines 4161
+Accuracy 0.05407354001441961
+Number of neurons flayerneurons.512 Context: 5.embeding
+Rappel: 0.12424897861091083
+Precision: 0.3481624758220503
+# good anotations 180
+# total lines 4161
+Accuracy 0.043258832011535686
+Number of neurons flayerneurons.8 Context: 5.embeding
+Rappel: 0.07089641913001682
+Precision: 0.2677966101694915
+# good anotations 79
+# total lines 4161
+Accuracy 0.018985820716173996
+Number of neurons flayerneurons.64 Context: 5.embeding
+Rappel: 0.14011055034847392
+Precision: 0.307032590051458
+# good anotations 179
+# total lines 4161
+Accuracy 0.043018505167027155
+Number of neurons flayerneurons.256 Context: 5.embeding
+Rappel: 0.136986301369863
+Precision: 0.34035087719298246
+# good anotations 194
+# total lines 4161
+Accuracy 0.04662340783465513
+Number of neurons flayerneurons.32 Context: 5.embeding
+Rappel: 0.12833453496755587
+Precision: 0.350187265917603
+# good anotations 187
+# total lines 4161
+Accuracy 0.04494111992309541
+Number of neurons flayerneurons.2 Context: 5.embeding
+Rappel: 0.1018985820716174
+Precision: 0.3278301886792453
+# good anotations 139
+# total lines 4161
+Accuracy 0.03340543138668589
+Number of neurons flayerneurons.128 Context: 5.embeding
+Rappel: 0.08868060562364816
+Precision: 0.35772357723577236
+# good anotations 132
+# total lines 4161
+Accuracy 0.03172314347512617
+Number of neurons flayerneurons.1024 Context: 5.embeding
+Rappel: 0.11439557798606104
+Precision: 0.35294117647058826
+# good anotations 168
+# total lines 4161
+Accuracy 0.04037490987743331
+Number of neurons flayerneurons.16 Context: 5.embeding
+Rappel: 0.10237923576063446
+Precision: 0.2934272300469484
+# good anotations 125
+# total lines 4161
+Accuracy 0.03004085556356645
+Number of neurons flayerneurons.4 Context: 7.embeding
+Rappel: 0.14467676039413602
+Precision: 0.3554817275747508
+# good anotations 214
+# total lines 4161
+Accuracy 0.05142994472482576
+Number of neurons flayerneurons.512 Context: 7.embeding
+Rappel: 0.07498197548666186
+Precision: 0.3301282051282051
+# good anotations 103
+# total lines 4161
+Accuracy 0.024753664984378754
+Number of neurons flayerneurons.8 Context: 7.embeding
+Rappel: 0.10141792838260033
+Precision: 0.3412322274881517
+# good anotations 144
+# total lines 4161
+Accuracy 0.03460706560922855
+Number of neurons flayerneurons.64 Context: 7.embeding
+Rappel: 0.06560922855082912
+Precision: 0.2967032967032967
+# good anotations 81
+# total lines 4161
+Accuracy 0.01946647440519106
+Number of neurons flayerneurons.256 Context: 7.embeding
+Rappel: 0.110310021629416
+Precision: 0.3311546840958606
+# good anotations 152
+# total lines 4161
+Accuracy 0.0365296803652968
+Number of neurons flayerneurons.32 Context: 7.embeding
+Rappel: 0.15501081470800288
+Precision: 0.324031007751938
+# good anotations 209
+# total lines 4161
+Accuracy 0.0502283105022831
+Number of neurons flayerneurons.2 Context: 7.embeding
+Rappel: 0.09781302571497236
+Precision: 0.371007371007371
+# good anotations 151
+# total lines 4161
+Accuracy 0.03628935352078827
+Number of neurons flayerneurons.128 Context: 7.embeding
+Rappel: 0.12641192021148762
+Precision: 0.32129277566539927
+# good anotations 169
+# total lines 4161
+Accuracy 0.04061523672194184
+Number of neurons flayerneurons.1024 Context: 7.embeding
+Rappel: 0.1011776015380918
+Precision: 0.32779097387173395
+# good anotations 138
+# total lines 4161
+Accuracy 0.03316510454217736
+Number of neurons flayerneurons.16 Context: 7.embeding
+Rappel: 0.1552511415525114
+Precision: 0.34365325077399383
+# good anotations 222
+# total lines 4161
+Accuracy 0.05335255948089401
+Number of neurons flayerneurons.4 Context: 4.embeding
+Rappel: 0.11751982696467195
+Precision: 0.3210633946830266
+# good anotations 157
+# total lines 4161
+Accuracy 0.03773131458783946
+Number of neurons flayerneurons.512 Context: 4.embeding
+Rappel: 0.07065609228550829
+Precision: 0.3129251700680272
+# good anotations 92
+# total lines 4161
+Accuracy 0.022110069694784906
+Number of neurons flayerneurons.8 Context: 4.embeding
+Rappel: 0.09757269887046383
+Precision: 0.2512315270935961
+# good anotations 102
+# total lines 4161
+Accuracy 0.024513338139870222
+Number of neurons flayerneurons.64 Context: 4.embeding
+Rappel: 0.10862773371785628
+Precision: 0.29646017699115046
+# good anotations 134
+# total lines 4161
+Accuracy 0.03220379716414323
+Number of neurons flayerneurons.256 Context: 4.embeding
+Rappel: 0.11776015380918048
+Precision: 0.3306122448979592
+# good anotations 162
+# total lines 4161
+Accuracy 0.03893294881038212
+Number of neurons flayerneurons.32 Context: 4.embeding
+Rappel: 0.09829367940398942
+Precision: 0.28361858190709044
+# good anotations 116
+# total lines 4161
+Accuracy 0.027877913962989664
+Number of neurons flayerneurons.2 Context: 4.embeding
+Rappel: 0.13410237923576063
+Precision: 0.35842293906810035
+# good anotations 200
+# total lines 4161
+Accuracy 0.04806536890170632
+Number of neurons flayerneurons.128 Context: 4.embeding
+Rappel: 0.09805335255948089
+Precision: 0.35049019607843135
+# good anotations 143
+# total lines 4161
+Accuracy 0.03436673876472002
+Number of neurons flayerneurons.1024 Context: 4.embeding
+Rappel: 0.10598413842826243
+Precision: 0.30612244897959184
+# good anotations 135
+# total lines 4161
+Accuracy 0.032444124008651765
+Number of neurons flayerneurons.16 Context: 4.embeding
+Rappel: 0.12881518865657293
+Precision: 0.3712686567164179
+# good anotations 199
+# total lines 4161
+Accuracy 0.047825042057197786
+Number of neurons flayerneurons.4 Context: 6.embeding
+Rappel: 0.0927661619802932
+Precision: 0.24093264248704663
+# good anotations 93
+# total lines 4161
+Accuracy 0.022350396539293438
+Number of neurons flayerneurons.512 Context: 6.embeding
+Rappel: 0.08988223984619081
+Precision: 0.30213903743315507
+# good anotations 113
+# total lines 4161
+Accuracy 0.02715693342946407
+Number of neurons flayerneurons.8 Context: 6.embeding
+Rappel: 0.091324200913242
+Precision: 0.2131578947368421
+# good anotations 81
+# total lines 4161
+Accuracy 0.01946647440519106
+Number of neurons flayerneurons.64 Context: 6.embeding
+Rappel: 0.12184571016582552
+Precision: 0.29191321499013806
+# good anotations 148
+# total lines 4161
+Accuracy 0.035568372987262675
+Number of neurons flayerneurons.256 Context: 6.embeding
+Rappel: 0.10862773371785628
+Precision: 0.32964601769911506
+# good anotations 149
+# total lines 4161
+Accuracy 0.03580869983177121
+Number of neurons flayerneurons.32 Context: 6.embeding
+Rappel: 0.0874789714011055
+Precision: 0.29395604395604397
+# good anotations 107
+# total lines 4161
+Accuracy 0.02571497236241288
+Number of neurons flayerneurons.2 Context: 6.embeding
+Rappel: 0.11703917327565488
+Precision: 0.30184804928131415
+# good anotations 147
+# total lines 4161
+Accuracy 0.035328046142754144
+Number of neurons flayerneurons.128 Context: 6.embeding
+Rappel: 0.10982936794039894
+Precision: 0.31291028446389496
+# good anotations 143
+# total lines 4161
+Accuracy 0.03436673876472002
+Number of neurons flayerneurons.1024 Context: 6.embeding
+Rappel: 0.1324200913242009
+Precision: 0.3411978221415608
+# good anotations 188
+# total lines 4161
+Accuracy 0.04518144676760394
+Number of neurons flayerneurons.16 Context: 6.embeding
+Rappel: 0.09444844989185291
+Precision: 0.30279898218829515
+# good anotations 119
+# total lines 4161
+Accuracy 0.02859889449651526
+Number of neurons flayerneurons.4 Context: 1.embeding
+Rappel: 0.16991107906753183
+Precision: 0.38472418670438474
+# good anotations 272
+# total lines 4161
+Accuracy 0.06536890170632059
+Number of neurons flayerneurons.512 Context: 1.embeding
+Rappel: 0.12833453496755587
+Precision: 0.449438202247191
+# good anotations 240
+# total lines 4161
+Accuracy 0.05767844268204758
+Number of neurons flayerneurons.8 Context: 1.embeding
+Rappel: 0.1840903628935352
+Precision: 0.3524804177545692
+# good anotations 270
+# total lines 4161
+Accuracy 0.06488824801730353
+Number of neurons flayerneurons.64 Context: 1.embeding
+Rappel: 0.18000480653689016
+Precision: 0.376502002670227
+# good anotations 282
+# total lines 4161
+Accuracy 0.06777217015140591
+Number of neurons flayerneurons.256 Context: 1.embeding
+Rappel: 0.1643835616438356
+Precision: 0.3932748538011696
+# good anotations 269
+# total lines 4161
+Accuracy 0.064647921172795
+Number of neurons flayerneurons.32 Context: 1.embeding
+Rappel: 0.19562605142994471
+Precision: 0.3525798525798526
+# good anotations 287
+# total lines 4161
+Accuracy 0.06897380437394857
+Number of neurons flayerneurons.2 Context: 1.embeding
+Rappel: 0.16342225426580148
+Precision: 0.4088235294117647
+# good anotations 278
+# total lines 4161
+Accuracy 0.06681086277337178
+Number of neurons flayerneurons.128 Context: 1.embeding
+Rappel: 0.17688055755827925
+Precision: 0.37092391304347827
+# good anotations 273
+# total lines 4161
+Accuracy 0.06560922855082912
+Number of neurons flayerneurons.1024 Context: 1.embeding
+Rappel: 0.11271329007450132
+Precision: 0.488272921108742
+# good anotations 229
+# total lines 4161
+Accuracy 0.055034847392453734
+Number of neurons flayerneurons.16 Context: 1.embeding
+Rappel: 0.1415525114155251
+Precision: 0.41086587436332767
+# good anotations 242
+# total lines 4161
+Accuracy 0.058159096371064645
+Number of neurons flayerneurons.4 Context: 2.embeding
+Rappel: 0.09685171833693823
+Precision: 0.3325062034739454
+# good anotations 134
+# total lines 4161
+Accuracy 0.03220379716414323
+Number of neurons flayerneurons.512 Context: 2.embeding
+Rappel: 0.11727950012016342
+Precision: 0.29713114754098363
+# good anotations 145
+# total lines 4161
+Accuracy 0.03484739245373708
+Number of neurons flayerneurons.8 Context: 2.embeding
+Rappel: 0.14876231675078105
+Precision: 0.28917609046849757
+# good anotations 179
+# total lines 4161
+Accuracy 0.043018505167027155
+Number of neurons flayerneurons.64 Context: 2.embeding
+Rappel: 0.1095890410958904
+Precision: 0.22807017543859648
+# good anotations 104
+# total lines 4161
+Accuracy 0.024993991828887285
+Number of neurons flayerneurons.256 Context: 2.embeding
+Rappel: 0.10382119682768565
+Precision: 0.20601851851851852
+# good anotations 89
+# total lines 4161
+Accuracy 0.02138908916125931
+Number of neurons flayerneurons.32 Context: 2.embeding
+Rappel: 0.12689257390050468
+Precision: 0.21212121212121213
+# good anotations 112
+# total lines 4161
+Accuracy 0.026916606584955538
+Number of neurons flayerneurons.2 Context: 2.embeding
+Rappel: 0.15813506368661379
+Precision: 0.378419452887538
+# good anotations 249
+# total lines 4161
+Accuracy 0.059841384282624366
+Number of neurons flayerneurons.128 Context: 2.embeding
+Rappel: 0.1240086517664023
+Precision: 0.3449612403100775
+# good anotations 178
+# total lines 4161
+Accuracy 0.04277817832251862
+Number of neurons flayerneurons.1024 Context: 2.embeding
+Rappel: 0.09805335255948089
+Precision: 0.32107843137254904
+# good anotations 131
+# total lines 4161
+Accuracy 0.03148281663061764
+Number of neurons flayerneurons.16 Context: 2.embeding
+Rappel: 0.13746695505888007
+Precision: 0.28496503496503495
+# good anotations 163
+# total lines 4161
+Accuracy 0.03917327565489065
+Number of neurons flayerneurons.4 Context: 9.embeding
+Rappel: 0.11367459745253544
+Precision: 0.321353065539112
+# good anotations 152
+# total lines 4161
+Accuracy 0.0365296803652968
+Number of neurons flayerneurons.512 Context: 9.embeding
+Rappel: 0.15116558519586637
+Precision: 0.3322734499205087
+# good anotations 209
+# total lines 4161
+Accuracy 0.0502283105022831
+Number of neurons flayerneurons.8 Context: 9.embeding
+Rappel: 0.10886806056236481
+Precision: 0.36644591611479027
+# good anotations 166
+# total lines 4161
+Accuracy 0.039894256188416244
+Number of neurons flayerneurons.64 Context: 9.embeding
+Rappel: 0.15813506368661379
+Precision: 0.3343465045592705
+# good anotations 220
+# total lines 4161
+Accuracy 0.05287190579187695
+Number of neurons flayerneurons.256 Context: 9.embeding
+Rappel: 0.13266041816870944
+Precision: 0.30434782608695654
+# good anotations 168
+# total lines 4161
+Accuracy 0.04037490987743331
+Number of neurons flayerneurons.32 Context: 9.embeding
+Rappel: 0.12953616919009853
+Precision: 0.3525046382189239
+# good anotations 190
+# total lines 4161
+Accuracy 0.045662100456621
+Number of neurons flayerneurons.2 Context: 9.embeding
+Rappel: 0.1391492429704398
+Precision: 0.3298791018998273
+# good anotations 191
+# total lines 4161
+Accuracy 0.045902427301129534
+Number of neurons flayerneurons.128 Context: 9.embeding
+Rappel: 0.14179283826003364
+Precision: 0.34576271186440677
+# good anotations 204
+# total lines 4161
+Accuracy 0.049026676279740444
+Number of neurons flayerneurons.1024 Context: 9.embeding
+Rappel: 0.12905551550108146
+Precision: 0.31843575418994413
+# good anotations 171
+# total lines 4161
+Accuracy 0.0410958904109589
+Number of neurons flayerneurons.16 Context: 9.embeding
+Rappel: 0.06248497957221821
+Precision: 0.31153846153846154
+# good anotations 81
+# total lines 4161
+Accuracy 0.01946647440519106
