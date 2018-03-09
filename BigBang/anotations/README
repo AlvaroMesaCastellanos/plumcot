@@ -1,0 +1,4 @@
+Anotations made by spaCy tool
+
+spacy.anotations folder has the 3 different classes, 1,2,3
+spacy.anotations.new folder takes info from the previous one and adds another class, 1, 2before,2after,3
